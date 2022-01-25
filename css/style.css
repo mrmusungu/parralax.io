@@ -11,7 +11,15 @@ nav .brand-logo {
   color: #444;
 }
 
+
+h2, h4, h3, h5{
+  font-family: 'Outfit', sans-serif;
+}
+
+
 p {
+  font-family: 'Outfit', sans-serif;
+  font-size: 17.5px;
   line-height: 2rem;
 }
 
@@ -55,3 +63,24 @@ p {
 footer.page-footer {
   margin: 0;
 }
+
+/* Testimonial */
+#testimonial {
+ padding: 100px 0 100px 0;
+}
+.quoteLoop {
+ height: auto;
+ width: 100%;
+ margin: 0 auto;
+ position: relative;
+}
+.quote {
+ margin: 10px 30px;
+ height: inherit;
+ top: 0px;
+ display: none;
+ text-align: center;
+}
+
+
+/*cards*/
