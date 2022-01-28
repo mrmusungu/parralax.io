@@ -95,4 +95,4 @@ function imgClick(e) {
   e.target.style.opacity = opacity;
 }
 
-//GALLERY//
+//NAVBAR//
